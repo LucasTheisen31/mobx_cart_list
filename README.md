@@ -1,16 +1,13 @@
-# mobx_cart_list
+## Descrição
 
-A new Flutter project.
+`mobx_cart_list` é um projeto que demonstra o uso do gerenciador de estado [MOBX](https://mobx.js.org/) para aplicações em Dart e Flutter. Este exemplo ilustra como utilizar o `ObservableList` com objetos observáveis, especificamente a classe `ItemModel`, para gerenciar uma lista de itens.
 
-## Getting Started
+## Exemplos de Uso
 
-This project is a starting point for a Flutter application.
+O projeto fornece uma demonstração prática da utilização de MOBX para gerenciar o estado da aplicação, permitindo adicionar, remover e listar itens de forma reativa. O código é estruturado para mostrar como o estado da lista pode ser atualizado e refletido automaticamente na interface do usuário.
 
-A few resources to get you started if this is your first Flutter project:
+## Imagem de Exemplo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Aqui está uma visão geral de como a aplicação se parece em execução:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Exemplo da Aplicação](assets/images/exemplo-aplicacao.png)
